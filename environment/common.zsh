@@ -1,3 +1,3 @@
 # some common environment variables
 export PAGER="most"
-export EDITOR="vim"
+export EDITOR='emacsclient -a ""'
